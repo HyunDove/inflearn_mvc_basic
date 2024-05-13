@@ -8,7 +8,6 @@ class ServletApplicationTests {
 
 	@Test
 	void contextLoads() {
-		
 	}
 
 }
